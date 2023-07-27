@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lisu+Bosa:wght@200&family=Monoton&family=Tektur:wght@400;500&display=swap');
+
+body{
+    width: 100%;
+    height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-bottom: 150px;
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: aliceblue;
+    background: #202020;
+    backdrop-filter: initial;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Tektur', cursive;
+}
+.operater{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: #00FF00 ;
+    background: #696969;
+    backdrop-filter: initial;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Tektur', cursive;
+}
+.equalBtn{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: aliceblue;
+    background: #FF8000;
+    backdrop-filter: initial;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Tektur', cursive;
+}
+.opbtn{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 40px;
+    font-size: 20px;
+    color: aliceblue;
+    background: #e81717;
+    backdrop-filter: initial;
+    text-align: center;
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Tektur', cursive;
+}
+.inputTxt1{
+    width: 310px;
+    height: 60px;
+    margin-bottom:20px ;
+    border-radius: 15px;
+    font-size: 40px;
+    text-align: right;
+    color: black;
+    background-color: cadetblue;
+    border-color: rgb(64, 64, 64);
+    border-width: 5px;
+}
+
+.calculator{
+    width: 325px;
+    height: 470px;
+    margin: 170px;
+    padding: 40px;
+    border: 1px solid #717377;
+    padding: 20px;
+    border-radius: 16px;
+    border-color: #202020;
+    border-width: 3px;
+    background: rgba(96, 96, 96, 0.258);
+    box-shadow:70px 60px 900px rgba(52, 50, 50, 0.909) ;
+  
+}
+.allTable{
+    border-radius: 20px;
+}
+.stars{
+    font-family: 'Lisu Bosa', serif;
+    font-family: 'Monoton', cursive;
+    font-family: 'Tektur', cursive;
+    color: #708090;
+    width: 0;
+    height: 5px;
+   
+}
